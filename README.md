@@ -57,6 +57,7 @@ generated_ids = [
 
 权重下载
 ---
+
 魔搭：https://www.modelscope.cn/UnicomAI/Unichat-32B-c1.git
 始智：https://www.wisemodel.cn/models/UnicomLLM/Unichat-32B-c1 
 response = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
