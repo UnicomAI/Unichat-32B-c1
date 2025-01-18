@@ -55,6 +55,10 @@ generated_ids = [
     output_ids[len(input_ids):] for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)
 ]
 
+权重下载
+---
+魔搭：https://www.modelscope.cn/UnicomAI/Unichat-32B-c1.git
+始智：https://www.wisemodel.cn/models/UnicomLLM/Unichat-32B-c1 
 response = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
 print(response)
 
