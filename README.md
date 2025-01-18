@@ -1,4 +1,4 @@
-# Unichat-32B-c1
+# Unichat-qwen2.5-32B-c1
 ---
 [GitHub](https://github.com/UnicomAI/Unichat-32B-c1) | [ModelScope](https://www.modelscope.cn/UnicomAI/Unichat-32B-c1.git)  |  [WiseModel]([https://www.wisemodel.cn/models/UnicomLLM/Unichat-32B-c1/](https://wisemodel.cn/models/UnicomLLM/Unichat-qwen2.5-32B-c1))
 
