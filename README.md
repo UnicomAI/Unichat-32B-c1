@@ -1,6 +1,6 @@
 # Unichat-qwen2.5-32B-c1
 ---
-[GitHub](https://github.com/UnicomAI/Unichat-32B-c1) | [ModelScope](https://www.modelscope.cn/UnicomAI/Unichat-32B-c1.git)  |  [WiseModel]([https://www.wisemodel.cn/models/UnicomLLM/Unichat-32B-c1/](https://wisemodel.cn/models/UnicomLLM/Unichat-qwen2.5-32B-c1))
+[GitHub](https://github.com/UnicomAI/Unichat-32B-c1) | [ModelScope](https://www.modelscope.cn/UnicomAI/Unichat-32B-c1.git)  |  [WiseModel]([https://www.wisemodel.cn/models/UnicomLLM/Unichat-32B-c1/)](https://wisemodel.cn/models/UnicomLLM/Unichat-qwen2.5-32B-c1))
 
 介绍
 ---
@@ -16,7 +16,7 @@
 |  Deepseek V3  | 95.8                    | 90.2   | 50.1  | 40.0       | 80.0 |
 | Qwen2.5-MATH-72B | 95.8                 | 85.9   | 49.0  | 30.0       | 70.0 |
 |  Qwen-QwQ  | 95.6                       | 90.0   | 57.3  | 40.0       | 85.0 |
-|  Unichat-32B-c1   | 95.8                | 90.6   | 59.6  | 43.3       | 90.0 |
+|  Unichat-qwen2.5-32B-c1   | 95.8                | 90.6   | 59.6  | 43.3       | 90.0 |
 
 测评脚本使用[Qwen2.5-Math](https://github.com/QwenLM/Qwen2.5-Math)，推理长度设为12288
 
