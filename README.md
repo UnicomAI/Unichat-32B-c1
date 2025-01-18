@@ -60,8 +60,3 @@ print(response)
 
 ```
 
-权重下载
----
-
-魔搭：https://www.modelscope.cn/UnicomAI/Unichat-32B-c1.git
-始智：https://www.wisemodel.cn/models/UnicomLLM/Unichat-32B-c1 
